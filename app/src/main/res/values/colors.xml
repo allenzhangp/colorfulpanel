@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="redStart">#FAC6B3</color>
+    <color name="redEnd">#ED5A5A</color>
+    <color name="yellowStart">#F8E2BB</color>
+    <color name="yellowEnd">#FBC33E</color>
+    <color name="greenStart">#BAF0C3</color>
+    <color name="greenEnd">#01CAC7</color>
+
+    <color name="shaderGray">#EFEFEF</color>
+    <color name="shaderGrayCC">#CCCCCC</color>
+</resources>
